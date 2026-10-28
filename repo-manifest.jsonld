@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/optuna/optuna-examples/commit/e96f65e01de1571b4f528e4cb8d91a306af4100f",
       "git:hexsha": "e96f65e01de1571b4f528e4cb8d91a306af4100f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T13:38:40.166749+00:00"
     },
     {
       "@id": "https://repolex.ai/r/optuna/optuna-examples/commit/11755257d60dd9e2782a53825159c5f079ca0c0e",
