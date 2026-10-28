@@ -1,0 +1,11 @@
+{
+  "org": "optuna",
+  "repo": "optuna-examples",
+  "versions": [
+    {
+      "commit": "e96f65e01de1571b4f528e4cb8d91a306af4100f",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:38:40.167330+00:00"
+    }
+  ]
+}
